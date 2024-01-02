@@ -134,7 +134,7 @@ To test the camera for the application, follow these steps:
 
 1.  Clone the opencv-face-recognition repository from GitHub.
 ``` bash
-git clone https://github.com/justsaumit/opencv-face-recognition
+git clone https://github.com/justinkangg/face-recognition
 ```
 
 2. Change to the opencv-face-detection directory.
